@@ -1,0 +1,14 @@
+print sign of a number
+if n > 0
+print +
+return 0
+else if n == 0
+print 0
+return 0
+else 
+print -
+return -1
+printing last digit of a number
+int k = abs(n) % 10 to get last number
+putchar(48 + k)
+return k
