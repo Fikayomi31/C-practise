@@ -7,7 +7,3 @@ comb2.c      | print combination of two digit of base 10
 comb3.c      | print combination of three digit of base 10
 double_comb.c| print pairs of double digit combination
 putchar.c    | printing _putchar followed by a new line 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
