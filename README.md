@@ -12,3 +12,4 @@ isalpha.c    | check for alphabet character
 print_sign.c | print the sign of a number
 abs.c        | print absolute value of integer
 abs2.c       | print absolute value of integer using abs() format
+last_digit   |  function that prints the last digit of a number.
