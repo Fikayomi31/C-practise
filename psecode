@@ -12,3 +12,10 @@ printing last digit of a number
 int k = abs(n) % 10 to get last number
 putchar(48 + k)
 return k
+
+24 hours
+varaible hours, minutes, min
+for minutes=0, min < (60*24), min++ // 1439sec in 24 hours
+hour= mins/60 // will give 24 hours 
+min = mins%60 // % will give 9 for the last digit
+putchar(48 + (hour/10))
