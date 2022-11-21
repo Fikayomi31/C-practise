@@ -15,3 +15,7 @@ abs2.c       | print absolute value of integer using abs() format
 last_digit   |  function that prints the last digit of a number.
 24hour.c     | function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 24hours.c    | another method on function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+time_table.c | print the 9 time table starting with 0
+add.c        | function that adds two integer and result the result
+add2.c       | another method for addition of two integer
+12_time_table| print the 12 time table starting with 0
