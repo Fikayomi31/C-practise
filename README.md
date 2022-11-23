@@ -19,3 +19,6 @@ time_table.c | print the 9 time table starting with 0
 add.c        | function that adds two integer and result the result
 add2.c       | another method for addition of two integer
 12_time_table| print the 12 time table starting with 0
+0-isupper.c  | program to check for uppercase character with man isupper
+0-isupper1.c | program to check for uppercase character without man isupper in the function
+ 

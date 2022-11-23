@@ -19,5 +19,9 @@ void jack_bauer(void);
 int _putchar(char c);
 int add(int, int);
 void times_table(void);
+int _isupper(int c);
+int _isupper(int k);
+int _isdigit(int k)
+int _isdigit(int c);
 
 #endif /* MAIN_H */
