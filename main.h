@@ -21,7 +21,7 @@ int add(int, int);
 void times_table(void);
 int _isupper(int c);
 int _isupper(int k);
-int _isdigit(int k)
+int _isdigit(int k);
 int _isdigit(int c);
 
 #endif /* MAIN_H */

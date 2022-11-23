@@ -21,4 +21,5 @@ add2.c       | another method for addition of two integer
 12_time_table| print the 12 time table starting with 0
 0-isupper.c  | program to check for uppercase character with man isupper
 0-isupper1.c | program to check for uppercase character without man isupper in the function
- 
+ _isdigit.c  | program to check for digit from 0 to 9 with man isdigit
+ _isdigit1.c | program to check for digit 0 to 9 without using man isdigit

@@ -15,11 +15,11 @@ int _isupper(int k)
 }
 int main(void)
 {
-    char c;
+    char k;
 
-    c = 'A';
-    printf("%c: %d\n", c, _isupper(k));
-    c = 'a';
-    printf("%c: %d\n", c, _isupper(c));
+    k = 'A';
+    printf("%c: %d\n", k, _isupper(k));
+    k = 'a';
+    printf("%c: %d\n", k, _isupper(k));
     return (0);
 }
