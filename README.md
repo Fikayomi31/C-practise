@@ -23,3 +23,5 @@ add2.c       | another method for addition of two integer
 0-isupper1.c | program to check for uppercase character without man isupper in the function
  _isdigit.c  | program to check for digit from 0 to 9 with man isdigit
  _isdigit1.c | program to check for digit 0 to 9 without using man isdigit
+ 2-mul.c     | function that multiplies two integer
+ 
